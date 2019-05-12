@@ -1,0 +1,22 @@
+body {
+	font-family: "Arial";
+	font-size: 20px;
+	line-height: 1.5;
+	color: #2f0f4b;
+	background-color: #afafdc;
+	width: 850px;
+	margin-top: 50;
+	margin-left: 200;
+	margin-right: 200;
+}
+a {
+	color: #a3a2d5;
+	background-color: #333;
+	text-decoration: none;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+a:hover {
+	color: #333;
+	background-color: #FFF;
+}
